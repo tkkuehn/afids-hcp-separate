@@ -3,3 +3,8 @@
 	url = git@github.com:tkkuehn/bids-hcp.git
 	datalad-id = 65a4c0b6-6bb4-41d9-a460-d1731be988b7
 	datalad-url = git@github.com:tkkuehn/bids-hcp.git
+[submodule "afids-groundtruth-hcp"]
+	path = afids-groundtruth-hcp
+	url = git@github.com:tkkuehn/afids-groundtruth-hcp.git
+	datalad-id = 4c41cb0c-ea23-42aa-b79b-5741e10ed896
+	datalad-url = git@github.com:tkkuehn/afids-groundtruth-hcp.git
